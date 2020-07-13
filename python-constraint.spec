@@ -4,7 +4,7 @@
 #
 Name     : python-constraint
 Version  : 1.4.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/37/8b/5f1bc2734ca611943e1d6733ee244238679f6410a10cd45ede55a61a8402/python-constraint-1.4.0.tar.bz2
 Source0  : https://files.pythonhosted.org/packages/37/8b/5f1bc2734ca611943e1d6733ee244238679f6410a10cd45ede55a61a8402/python-constraint-1.4.0.tar.bz2
 Summary  : python-constraint is a module implementing support for handling CSPs (Constraint Solving Problems) over finite domain
